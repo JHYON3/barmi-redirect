@@ -16,6 +16,9 @@ const redirects = {
   "/default/": "/main",
   "/default/index.php": "/",
   "/bizdemo38944/index.php": "/",
+    
+  "/default/temp/index_expand.php": "/main",
+
 
   // 회사소개
   "/default/mp1/mp1_sub1.php": "/info",
